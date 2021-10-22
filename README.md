@@ -1,2 +1,2 @@
 # default_prediction
-Anonymized bank data; EDA; Feature Engineering; Weight of evidence; Information value; Linear model; ROC-AUC;
+Problem solved during Tinkoff Academy - Data Analysis in Industry course in April 2021. Rated 10/10.
